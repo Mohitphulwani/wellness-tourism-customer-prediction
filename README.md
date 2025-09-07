@@ -73,7 +73,7 @@ This project builds predictive models to identify customers most likely to purch
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mohitphulwani001/wellness-tourism-customer-prediction.git
+git clone https://github.com/mohitphulwani/wellness-tourism-customer-prediction.git
 cd wellness-tourism-customer-prediction
 
 
